@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_STABILITY
+        bool "Stability"
+        default n
+        ---help---
+                Enable Stability module
